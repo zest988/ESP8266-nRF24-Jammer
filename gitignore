@@ -1,0 +1,29 @@
+# Arduino IDE
+*.ino.cpp
+*.ino.elf
+*.ino.eep
+*.ino.hex
+*.ino.with_bootloader.bin
+build/
+*.precompiled
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Serial logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
